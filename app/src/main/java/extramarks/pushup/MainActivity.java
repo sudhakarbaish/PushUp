@@ -53,5 +53,6 @@ public class MainActivity extends AppCompatActivity {
     public void mainitem()
     {
         int i = 0;
+        int k = 0;
     }
 }
